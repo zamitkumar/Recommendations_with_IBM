@@ -51,7 +51,7 @@ The goal of this project was to explore user-article interaction data from the I
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/recommendations-with-ibm.git
+   git clone https://github.com/zamitkumar/recommendations-with-ibm.git
 Install the required dependencies:
 bash
 Copy code
