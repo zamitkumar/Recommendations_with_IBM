@@ -71,5 +71,4 @@ Amit Kumar
 Email: amit.saptech@gmail.com
 LinkedIn: https://www.linkedin.com/in/amitkumar50/
 
-🏷️ Tags
-#DataScience #MachineLearning #Recommendations #NLP #Python #EDA #CollaborativeFiltering #MatrixFactorization #ContentBasedRecommendations #GitHub
+
