@@ -47,16 +47,7 @@ The goal of this project was to explore user-article interaction data from the I
 - Gained hands-on experience in building rank-based, collaborative, and machine learning-based recommendation systems.
 - Enhanced skills in Python, pandas, scikit-learn, and NLP techniques.
 
-## 🚀 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/zamitkumar/recommendations-with-ibm.git
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter notebooks to explore the project and build recommendation systems.
 📁 Project Structure
 data/: Contains the dataset used for analysis.
 notebooks/: Jupyter notebooks for EDA, recommendation algorithms, and matrix factorization.
